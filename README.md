@@ -1,2 +1,2 @@
 # dictionary
-Web page to find definations of words and genarete random ones too.
+Web page to find definitions of words and generate random ones too.
